@@ -1,0 +1,22 @@
+.info-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.album-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: lightgray;
+  width: 400px;
+  height: 250px;
+}
+
+.albums-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
